@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Injunctions given by the Kings Majesty to the archbishops of this realm to be communicated by them to the bishops and the rest of the clergy.</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31866</idno><idno type="EEBO-CITATION">19648177</idno>
+  <idno type="VID">205575</idno>
+  <idno type="EEBO-PROQUEST">2240865296</idno>
+  
+            <idno type="STC">Wing W2340</idno>
+            <idno type="OCLC">19648177</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B31866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205575)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1695:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Injunctions given by the Kings Majesty to the archbishops of this realm to be communicated by them to the bishops and the rest of the clergy.</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and the executrix of Thomas Newcomb deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties special command."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government.</term>
+               <term type="topical_term">Ecclesiastical law --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205575:1"/>
+            <p>INJUNCTIONS Given by the KINGS MAJESTY TO THE <hi>Archbishops</hi> OF THIS REALM, To be Communicated by them to the Bishops and the rest of the Clergy.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>Published by His Majesties special Command.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms of the British royal family</figDesc>
+               <head>
+                  <q>DIEV ET MON DROIT</q>
+               </head>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd, Printers to the Kings most Excellent Majesty. 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205575:2"/>
+            <pb n="3" facs="tcp:205575:2"/>
+            <head>
+               <hi>To the Most Reverend Father in God, Our Right Trusty and Right Entirely beloved Counsel<g ref="char:EOLhyphen"/>lor,</hi> Thomas <hi>Lord Archbishop of</hi> Canterbury: <hi>And to the Most Reverend Father in God,</hi> John <hi>Lord Archbishop of</hi> York.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Ost Reverend Father in God, Our Right Trusty and Right Entirely beloved Counsellor; and Most Reverend Father in God; We Greet you well. We being very sensible, that no<g ref="char:EOLhyphen"/>thing can more effectually conduce to the Honour and
+<pb n="4" facs="tcp:205575:3"/>Glory of God, and the Sup<g ref="char:EOLhyphen"/>port of the Protestant Reli<g ref="char:EOLhyphen"/>gion, than the Protecting and Maintaining of the Church of <hi>England,</hi> as it is by Law esta<g ref="char:EOLhyphen"/>blished; which We are resol<g ref="char:EOLhyphen"/>ved to do to the utmost of Our Power; Have therefore upon mature Deliberation with you and other Our Bi<g ref="char:EOLhyphen"/>shops, by virtue of Our Roy<g ref="char:EOLhyphen"/>al and Supreme Authority, thought fit with the Advice of Our Privy Council to or<g ref="char:EOLhyphen"/>dain and publish the follow<g ref="char:EOLhyphen"/>ing Injunctions.</p>
+            <p n="1">I.
+<note place="margin">
+                  <hi>An. Do.</hi> 1603.</note>
+               <hi>THat the</hi> 34<seg rend="sup">th</seg>
+               <hi>and</hi> 35<seg rend="sup">th</seg>
+               <hi>Canons con<g ref="char:EOLhyphen"/>cerning Ordinations be strictly obser<g ref="char:EOLhyphen"/>ved.</hi>
+            </p>
+            <p n="2">II. <hi>That every Person to be admitted to
+<pb n="5" facs="tcp:205575:3"/>Holy Orders do signify his Name and the place of his Abode to the Bishop fourteen Days before he is ordained, to the end that enquiry may be made into his Life and Conversation. And that he appear at the furthest on Thursday in Ember-week, that so such who upon Examination shall be found fit, may have time to prepare them<g ref="char:EOLhyphen"/>selves by Fasting and Prayer, before the day of Ordination.</hi>
+            </p>
+            <p n="3">III. <hi>That every Bishop shall be well satis<g ref="char:EOLhyphen"/>fied, that all Persons that are to be ordain<g ref="char:EOLhyphen"/>ed have a real Title with a sufficient Main<g ref="char:EOLhyphen"/>tenance, according to the</hi> 33<seg rend="sup">th</seg>
+               <hi>Canon,</hi>
+               <note place="margin">
+                  <hi>A. D.</hi> 1603.</note>
+               <hi>in which matter We require the Bishops to use an especial care.</hi>
+            </p>
+            <p n="4">IV. <hi>That a Certificate of the Age of the Person to be ordained, be brought, if it can be, out of the Parish Register, or at least a Certificate very well attested.</hi>
+            </p>
+            <p n="5">V. <hi>That the part of the</hi> 34<seg rend="sup">th</seg>
+               <hi>Canon,</hi>
+               <note place="margin">
+                  <hi>A D.</hi> 1603.</note>
+               <hi>which relates to the giving of Certificates con<g ref="char:EOLhyphen"/>cerning the Lives and Manners of those who are to be ordained, be strictly looked to. And that the Bishops lay it on the Con<g ref="char:EOLhyphen"/>sciences of the Clergy, that they sign no Certificates, unless, upon their own know<g ref="char:EOLhyphen"/>ledge, they judge the persons to be duly qualified.</hi>
+            </p>
+            <pb n="6" facs="tcp:205575:4"/>
+            <p n="6">VI. <hi>That every Bishop shall transmit, be<g ref="char:EOLhyphen"/>tween</hi> Michaelmass <hi>and</hi> Christmass, <hi>to the Arch-Bishop of the Province, a List of all such Persons as have been ordained by him du<g ref="char:EOLhyphen"/>ring that year, according to the Constituti<g ref="char:EOLhyphen"/>ons in the year</hi> 1584.
+<note place="margin">Articuli pro Clero.</note>
+               <hi>in order to be put in a publick Register, which shall be prepared by you for that Vse.</hi>
+            </p>
+            <p n="7">VII. <hi>That the Bishops shall reside in their Dioceses, and shall take care to oblige their Clergy to such Residence as the Laws of the Land and the Canons do require, par<g ref="char:EOLhyphen"/>ticularly the</hi> 41<seg rend="sup">st</seg>
+               <hi>Canon.</hi>
+               <note place="margin">
+                  <hi>A. D.</hi> 1603.</note>
+            </p>
+            <p n="8">VIII. <hi>That they who keep Curates, have none but such as are licensed by the Bishop of the Diocese, or in exempt Iurisdictions by the Ordinary of the Place having Episco<g ref="char:EOLhyphen"/>pal Iurisdiction, as is required both by the Act of Vniformity and the</hi> 48<seg rend="sup">th</seg>
+               <hi>Canon,</hi>
+               <note place="margin">
+                  <hi>A. D.</hi> 1603.</note>
+               <hi>that so when the Incumbent does not reside, the Bishop, or such Ordinary, may know how the Cure is supplyed; And that no Person shall presume to serve any Cure without Licence from the Bishop, or such Ordinary, upon pain of Suspension.</hi>
+            </p>
+            <p n="9">IX. <hi>That you use your most effectual en<g ref="char:EOLhyphen"/>deavours to suppress the great Abuses occa<g ref="char:EOLhyphen"/>sioned by Pluralities, and restrain them as much as you can, except where the Parishes lie near one another, and the Livings are
+<pb n="7" facs="tcp:205575:4"/>small: That all Qualifications be careful<g ref="char:EOLhyphen"/>ly examined: We being determined to have no Chaplains to be qualified by Vs, but such as are admitted to attend upon Vs. And that due Caution be taken before any Fa<g ref="char:EOLhyphen"/>culty is granted. And that such Persons as are legally qualified shall reside at least two Months in the Year in each of their Li<g ref="char:EOLhyphen"/>vings; and provide a Curate to serve where they are not in person, with a due Mainte<g ref="char:EOLhyphen"/>nance to be determin'd by the Bishop of the Diocess, unless the two Parishes lie so near, that the Incumbent can constantly serve both Cures.</hi>
+            </p>
+            <p n="10">X. <hi>That the Bishops shall look to the Lives and Manners of their Clergy, that they may be in all things regular and exem<g ref="char:EOLhyphen"/>plary, according to the</hi> 75<seg rend="sup">th</seg>
+               <hi>Canon.</hi>
+               <note place="margin">
+                  <hi>A. D.</hi> 1603.</note>
+            </p>
+            <p n="11">XI. <hi>That the Bishops do use their utmost Endeavour to oblige their Clergy to have publick Prayers in the Church, not only on Holy-days and Litany-days, but as often as may be, and to celebrate the Holy Sa<g ref="char:EOLhyphen"/>crament frequently.</hi>
+            </p>
+            <p n="12">XII. <hi>That the Bishops shall require the Clergy to use their utmost Endeavours, that the Lord's day be Religiously observed. That they set a good Example to their Peo<g ref="char:EOLhyphen"/>ple, and exhort them frequently to their Duty herein.</hi>
+            </p>
+            <pb n="8" facs="tcp:205575:5"/>
+            <p n="13">XIII. <hi>That the Bishops remind their Clergy to visit the Sick frequently, and require them to perform that Duty with great Care and Diligence according to the</hi> 67<seg rend="sup">th</seg>
+               <hi>Canon.</hi>
+               <note place="margin">
+                  <hi>A. D.</hi> 1603.</note>
+            </p>
+            <p n="14">XIV. <hi>That Catechising be duly perform'd according to the</hi> 59<seg rend="sup">th</seg>
+               <hi>Canon.</hi>
+               <note place="margin">
+                  <hi>A. D.</hi> 1603.</note>
+            </p>
+            <p n="15">XV. <hi>That the Bishops be careful to Con<g ref="char:EOLhyphen"/>firm, not only in their Tricunial Visitations, but at other convenient Seasons.</hi>
+            </p>
+            <p n="16">XVI. <hi>That care be taken, that the Arch-Deacons make their Visitations personal<g ref="char:EOLhyphen"/>ly; and that, as much as may be, they live within the Bounds of their Iurisdi<g ref="char:EOLhyphen"/>ction, and do their Duty according to the Canons.</hi>
+            </p>
+            <p n="17">XVII. <hi>That no Commutation of Pe<g ref="char:EOLhyphen"/>nance shall be made, but by the express Order and Directions of the Bishop him<g ref="char:EOLhyphen"/>self, which shall be declared in open Court. And that the Commutation-Money shall be applied only to pious and charitable Vses, according to the</hi> Articuli pro Clero <hi>made in the year</hi> 1584. <hi>and the Constitutions made in the year</hi> 1597.</p>
+            <p n="18">XVIII. <hi>That no Licence for Marriage without Banns shall be granted by any Ec<g ref="char:EOLhyphen"/>clesiastical
+<pb n="9" facs="tcp:205575:5"/>Iudge, without first taking the Oaths of two sufficient Witnesses, and also sufficient Security for performance of the Conditions of the Licence according to the</hi> 102<seg rend="sup">d</seg>. <hi>and</hi> 103<seg rend="sup">d</seg>. <hi>Canons.</hi>
+               <note place="margin">
+                  <hi>A. D.</hi> 1603.</note>
+            </p>
+            <p>THese Injunctions We do require you to transmit to the Bishops of your respe<g ref="char:EOLhyphen"/>ctive Provinces, to be by them communicated to their Clergy, and to be strictly ob<g ref="char:EOLhyphen"/>served, and often inquired after both by you and them. For as We Esteem it the chief part of Our Princely Care to promote true Religion, as it is established in this Church; and in order thereunto We have determin'd not to dis<g ref="char:EOLhyphen"/>pose
+<pb n="10" facs="tcp:205575:6"/>of any Church Prefer<g ref="char:EOLhyphen"/>ments in Our Gift, but to such of Our Clergy as We shall have reason to believe do live most exemplarily, and preach and watch most faith<g ref="char:EOLhyphen"/>fully over the People com<g ref="char:EOLhyphen"/>mitted to their Charge; So We assure Our Self, that these Our pious Intentions will be effectually seconded by you and the rest of Our Bishops; And that you will without Favour or partial Affection, study to suppress Impiety and Vice, and to reform all Dis<g ref="char:EOLhyphen"/>orders, as far as in you lies; Well knowing that nothing
+<pb n="11" facs="tcp:205575:6"/>will so much advance the great ends of Religion, and so certainly secure and establish this Church, as the exempla<g ref="char:EOLhyphen"/>ry Lives and faithful Labours of those who minister in it. And so We commend Our Self to your Prayers, and bid you very heartily Farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> Kensing<g ref="char:EOLhyphen"/>ton <date>
+                     <hi>the Fifteenth day of</hi> Fe<g ref="char:EOLhyphen"/>bruary 1694/5. <hi>in the Seventh year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <signed>By His Majesties Command, <hi>SHREWSBƲRY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
